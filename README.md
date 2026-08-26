@@ -22,7 +22,7 @@ This repository documents my hands-on learning path toward becoming a cybersecur
 - [`Calculator.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/Simple%20Coding%20Projects/Calculator.py) – Basic arithmetic operations.
 - [`To-dolist.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/Simple%20Coding%20Projects/To-dolist.py) – Task management script.
 - [`Smart_Store_Checkout_System.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/Simple%20Coding%20Projects/Smart_Store_Checkout_System.py) – Store Checkout System.
-- - [`Python_Trivia_Quiz.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/Simple%20Coding%20Projects/Python_Trivia_Quiz.py) – Trivia Quiz.
+- [`Python_Trivia_Quiz.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/Simple%20Coding%20Projects/Python_Trivia_Quiz.py) – Trivia Quiz.
 
 
 ## 🚀 How to Use
