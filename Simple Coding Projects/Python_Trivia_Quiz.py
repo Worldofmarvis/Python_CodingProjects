@@ -26,7 +26,7 @@ print()
 correct_count = 0
 
 for i in range(len(questions)):
-    # Print the individual question using index [i]
+    
     print(f"Question {i+1}: {questions[i]}")
     user_answer = input("Your answer: ").strip().lower()
     print()
